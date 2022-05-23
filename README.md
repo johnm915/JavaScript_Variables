@@ -53,3 +53,4 @@ Steps are to be completed in the `app.js` file.
 3. Declare a variable named `pageCount` using the `let` keyword, and assign it the value `722` (number)
 4. Declare a variable named `bookmark` using the `let` keyword, and assign it the value `456` (number)
 5. Declare a variable named `hasRead` using the `let` keyword, and assign it the value `true` (boolean)
+"# JavaScript-Intro" 
